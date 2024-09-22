@@ -1,4 +1,6 @@
 # Liteyuki Bot的语言包
+Kakyo Language Pack
+Version 20240922-1142
 
 ## 简介
 
