@@ -18,8 +18,4 @@ Liteyuki Bot的语言包，用于提供多种语言的翻译。
 
 请注意和 Liteyuki Bot本身区分。
 
-## 贡献
-
-源语言包 [Liteyuki](https://github.com/Liteyuki) 开发。
-
-本语言包由 [MiaomioLint](https://github.com/MiaomioLint) 二次开发。
+LSO LISENCE
